@@ -4,7 +4,7 @@ Ai 酱
 
 ![image](https://github.com/uonlraSnaey/uonlraSnaey/assets/120707623/e71fee59-0c6c-4f03-9fca-77f680786495)
 
-
+this is my cs50's study road: https://github.com/uonlraSnaey/cs50
 <!--
 **uonlraSnaey/uonlraSnaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
