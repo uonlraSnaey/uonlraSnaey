@@ -6,6 +6,8 @@ Ai 酱
 
 ******
 
+This is the testimony of the 'missing-semester' class:https://github.com/uonlraSnaey/missing-semester
+
 this is my cs50's study road: https://github.com/uonlraSnaey/cs50
 
 this is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
