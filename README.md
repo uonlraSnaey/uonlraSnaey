@@ -5,6 +5,9 @@ Ai 酱
 ![image](https://github.com/uonlraSnaey/uonlraSnaey/assets/120707623/e71fee59-0c6c-4f03-9fca-77f680786495)
 
 ******
+**故余虽愚，卒获有所闻**
+            
+            **So, even though I was unintelligent, yet I was able to acquire knowledge**
 
 This is the testimony of the 'missing-semester' class:https://github.com/uonlraSnaey/missing-semester
 
