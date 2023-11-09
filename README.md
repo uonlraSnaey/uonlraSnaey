@@ -14,6 +14,9 @@ This is the testimony of the 'missing-semester' class:https://github.com/uonlraS
 this is my cs50's study road: https://github.com/uonlraSnaey/cs50
 
 this is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
+
+a funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
+
  <!--
 **uonlraSnaey/uonlraSnaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
