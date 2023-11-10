@@ -17,7 +17,21 @@ this is the study process about python 3 basic: https://github.com/uonlraSnaey/h
 
 a funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
 
- <!--
+***
+Useful Tool and Docments
+
+### vim
+
+vim 中文手册 https://yianwillis.github.io/vimcdoc/doc/quickref.html
+
+
+### git
+
+### obsidian plugs
+
+contact me by emial: ciencatsanye@gmail.com
+
+<!--
 **uonlraSnaey/uonlraSnaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
