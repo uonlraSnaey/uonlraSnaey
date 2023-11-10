@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaeyshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **故余虽愚，卒获有所闻**
             
