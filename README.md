@@ -1,17 +1,20 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaeyshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 **故余虽愚，卒获有所闻**
             
 **So, even though I was unintelligent, yet I was able to acquire knowledge**
+<b>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uonlraSnaey)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey&show_icons=Ture&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ******
 This is the testimony of the 'missing-semester' class:https://github.com/uonlraSnaey/missing-semester
 
-this is my cs50's study road: https://github.com/uonlraSnaey/cs50
+This is my cs50's study road: https://github.com/uonlraSnaey/cs50
 
-this is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
+This is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
 
-a funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
+A funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
 
 ***
 Useful Tool and Docments
