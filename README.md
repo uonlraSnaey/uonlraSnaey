@@ -1,8 +1,4 @@
-###  Hoshino Ai 
-
-Ai 酱
-
-![image](https://github.com/uonlraSnaey/uonlraSnaey/assets/120707623/e71fee59-0c6c-4f03-9fca-77f680786495)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey)](https://github.com/anuraghazra/github-readme-stats)
 
 **故余虽愚，卒获有所闻**
             
