@@ -1,4 +1,4 @@
-**故余虽愚，卒获有所闻**
+**余虽愚，卒获有所闻**
             
 **So, even though I was unintelligent, yet I was able to acquire knowledge**
 <b>
