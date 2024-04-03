@@ -1,6 +1,6 @@
 **余虽愚，卒获有所闻**
             
-**So, even though I was unintelligent, yet I was able to acquire knowledge**
+**Even though I was unintelligent, yet I was able to acquire knowledge**
 <b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uonlraSnaey)](https://github.com/anuraghazra/github-readme-stats)
