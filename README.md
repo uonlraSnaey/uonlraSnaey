@@ -29,6 +29,10 @@
 - GitHub [官方中文文档](https://docs.github.com/zh/get-started)
 
 ### 3. obsidian plugs
+1. Dataview: obsidian://show-plugin?id=dataview
+2. Calendar
+3. Style setting
+
 
 ## contact me by emial: ciencatsanye@gmail.com
 
