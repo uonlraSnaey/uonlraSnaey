@@ -25,6 +25,8 @@
 
 
 ### 2. git / GitHub
+- 《Git pro》 一书的[学习仓库](https://github.com/uonlraSnaey/Gitpro_notes), 包含图书资源以及英文汉化。
+- GitHub [官方中文文档](https://docs.github.com/zh/get-started)
 
 ### 3. obsidian plugs
 
