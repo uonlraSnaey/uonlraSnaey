@@ -7,8 +7,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey&show_icons=Ture&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-******
-## This is the testimony of the [missing-semester](github.com/uonlraSnaey/missing-semester) classhttps
+## 我的一些产出 ：
+
+### This is the testimony of the [missing-semester](https://github.com/uonlraSnaey/missing-semester)
 
 - This is my cs50's study road: https://github.com/uonlraSnaey/cs50
 
@@ -17,7 +18,7 @@
 - A funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
 
 ***
-## Useful Tool and Docments
+## 一些我常用的工具 ：
 
 ### 1. vim
 
@@ -33,8 +34,13 @@
 2. Calendar
 3. Style setting
 
+---
 
-## contact me by emial: ciencatsanye@gmail.com
+### 我的社交媒体：
+
+ · 联系我的邮箱: ciencatsanye@gmail.com
+
+ · 这是我的技术博客：https://www.uonlra.blog/
 
 <!--
 **uonlraSnaey/uonlraSnaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
