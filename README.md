@@ -34,6 +34,8 @@
 2. Calendar
 3. Style setting
 
+### 4. [Notion](https://www.notion.com/)笔记 
+- 一款功能无比齐全的托管式个人笔记平台
 ---
 
 ### 我的社交媒体：
