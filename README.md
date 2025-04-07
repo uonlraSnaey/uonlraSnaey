@@ -16,6 +16,10 @@
 - This is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
 
 - A funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
+### This is blender block
+1. [donut](https://github.com/uonlraSnaey/blender_donut)
+<img src="https://github.com/uonlraSnaey/blender_donut/blob/main/VIEW.png?raw=true" alt="1" width="400"/>
+<img src="https://github.com/uonlraSnaey/blender_donut/blob/main/DOUNT.png?raw=true" alt="1" width="300"/>
 
 ***
 ## 一些我常用的工具 ：
