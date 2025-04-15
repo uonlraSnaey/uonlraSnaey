@@ -18,8 +18,7 @@
 - A funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
 ### This is blender block
 1. [donut](https://github.com/uonlraSnaey/blender_donut)
-<img src="https://github.com/uonlraSnaey/blender_donut/blob/main/VIEW.png?raw=true" alt="1" width="400"/>
-<img src="https://github.com/uonlraSnaey/blender_donut/blob/main/DOUNT.png?raw=true" alt="1" width="300"/>
+<img src="https://github.com/uonlraSnaey/blender/blob/main/dount/DOUNT.png?raw=true" alt="1" width="400"/>
 
 ***
 ## 一些我常用的工具 ：
