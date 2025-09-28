@@ -1,6 +1,5 @@
 **不以物喜，不以己悲，独善其身**
             
-**Even though I was unintelligent, yet I was able to acquire knowledge**
 <b>
 
 ![uonlraSnaey's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey&show_icons=true&bg_color=00000000)
