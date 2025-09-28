@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uonlraSnaey&langs_count=8)
 
-![uonlraSnaey's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey&show_icons=true&bg_color=00000000)
+![uonlraSnaey's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey&&show_icons=true&theme=transparent)
 
 ## 我的一些产出 ：
 
