@@ -2,18 +2,6 @@
             
 <b>
 
-
-![Metrics](https://metrics.lecoq.io/uonlraSnaey?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHong_Kong)
-
-
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uonlraSnaey&langs_count=8)
-
-![uonlraSnaey's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonlraSnaey&&show_icons=true&theme=transparent)
-
 ## 我的一些产出 ：
 
 ### This is the testimony of the [missing-semester](https://github.com/uonlraSnaey/missing-semester)
