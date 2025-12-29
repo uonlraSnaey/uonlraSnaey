@@ -53,7 +53,7 @@ jobs:
 - This is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
 
 - A funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
-### This is blender block
+### Blender
 1. [donut](https://github.com/uonlraSnaey/blender_donut)
 <img src="https://github.com/uonlraSnaey/blender/blob/main/dount/DOUNT.png?raw=true" alt="1" width="400"/>
 
