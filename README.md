@@ -1,42 +1,42 @@
 **不以物喜，不以己悲，独善其身**
-            
+---         
 <b>
 
-## 我的一些产出 ：
+#### 我的一些产出 ：
 
-### This is the testimony of the [missing-semester](https://github.com/uonlraSnaey/missing-semester)
+#### This is the testimony of the [missing-semester](https://github.com/uonlraSnaey/missing-semester)
 
 - This is my cs50's study road: https://github.com/uonlraSnaey/cs50
 
 - This is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
 
 - A funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
-### Blender
+#### Blender
 1. [donut](https://github.com/uonlraSnaey/blender_donut)
-<img src="https://github.com/uonlraSnaey/blender/blob/main/dount/DOUNT.png?raw=true" alt="1" width="400"/>
+2. [pear](https://github.com/Uonlra/blender/tree/main/pearl)
 
 ***
-## 一些我常用的工具 ：
+#### 一些常用的工具 ：
 
-### 1. vim
+#### 1. vim
 
 - vim 中文手册 https://yianwillis.github.io/vimcdoc/doc/quickref.html
 
 
-### 2. git / GitHub
+#### 2. git / GitHub
 - 《Git pro》 一书的[学习仓库](https://github.com/uonlraSnaey/Gitpro_notes), 包含图书资源以及英文汉化。
 - GitHub [官方中文文档](https://docs.github.com/zh/get-started)
 
-### 3. obsidian plugs
+#### 3. obsidian plugs
 1. Dataview: obsidian://show-plugin?id=dataview
 2. Calendar
 3. Style setting
 
-### 4. [Notion](https://www.notion.com/)笔记 
+#### 4. [Notion](https://www.notion.com/)笔记 
 - 一款功能无比齐全的托管式个人笔记平台
 ---
 
-### 我的社交媒体：
+#### 我的社交媒体：
 
  · 联系我的邮箱: ciencatsanye@gmail.com
 
