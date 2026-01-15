@@ -2,28 +2,37 @@
 ---
 ## 📊 我的 GitHub 统计
 
-<!-- 总体统计 -->
+<!-- 总体统计 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight)
-
-<!-- 奖杯 -->
+-->
+<!-- 奖杯 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Uonlra&theme=onedark)
-
-<!-- 语言 -->
+-->
+<!-- 语言 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uonlra&layout=compact&theme=tokyonight)
-
+-->
 <!-- Streak  -->
+
+![Uonlra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=radical)
+
+<p align="left">
+  <!-- Followers（绿色） -->
+  <img src="https://img.shields.io/github/followers/Uonlra?label=Followers&style=flat&logo=github&color=%232ea44f" alt="Followers" />
+
+  <!-- Public Repos（蓝色） -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/Uonlra&style=flat&logo=github&color=%230366d6" alt="Public Repos" />
+
+  <!-- Stars（紫色） -->
+  <img src="https://img.shields.io/github/stars/Uonlra?label=Stars&style=flat&logo=github&color=%238a63d2" alt="Stars" />
+</p>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight)
 
 <p align="left">
   <!-- 贡献图（ghchart） -->
   <img src="https://ghchart.rshah.org/Uonlra" alt="GitHub chart" />
 </p>
-<p align="left">
-  <!-- Followers / Repos / Stars（shields.io） -->
-  <img src="https://img.shields.io/github/followers/Uonlra?label=Followers&style=flat&logo=github" alt="Followers" />
- <!--  <img src="https://img.shields.io/github/repos/Uonlra?label=Public%20Repos&style=flat&logo=github" alt="Repos" /> -->
-  <img src="https://img.shields.io/github/stars/Uonlra?label=Stars&style=flat&logo=github" alt="Stars" />
-</p>
+
 
 ---
 
