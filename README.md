@@ -1,5 +1,18 @@
-# 不以物喜，不以己悲，独善其身
+# 😊 不以物喜，不以己悲，独善其身
 ---
+## 📊 我的 GitHub 统计
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 
 ## 👋 简介
 你好，我是 Uonlra（也用名 uonlraSnaey）。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
