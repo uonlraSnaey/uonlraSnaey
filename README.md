@@ -1,60 +1,49 @@
-**不以物喜，不以己悲，独善其身**
----         
-<b>
-
-#### 我的一些产出 ：
-
-#### This is the testimony of the [missing-semester](https://github.com/uonlraSnaey/missing-semester)
-
-- This is my cs50's study road: https://github.com/uonlraSnaey/cs50
-
-- This is the study process about python 3 basic: https://github.com/uonlraSnaey/hard_way
-
-- A funny lesson about thr foundation of python: https://github.com/uonlraSnaey/CS50P
-#### Blender
-1. [donut](https://github.com/uonlraSnaey/blender_donut)
-2. [pear](https://github.com/Uonlra/blender/tree/main/pearl)
-
-***
-#### 一些常用的工具 ：
-
-#### 1. vim
-
-- vim 中文手册 https://yianwillis.github.io/vimcdoc/doc/quickref.html
-
-
-#### 2. git / GitHub
-- 《Git pro》 一书的[学习仓库](https://github.com/uonlraSnaey/Gitpro_notes), 包含图书资源以及英文汉化。
-- GitHub [官方中文文档](https://docs.github.com/zh/get-started)
-
-#### 3. obsidian plugs
-1. Dataview: obsidian://show-plugin?id=dataview
-2. Calendar
-3. Style setting
-
-#### 4. [Notion](https://www.notion.com/)笔记 
-- 一款功能无比齐全的托管式个人笔记平台
+# 不以物喜，不以己悲，独善其身
 ---
 
-#### 我的社交媒体：
+## 👋 简介
+你好，我是 Uonlra（也用名 uonlraSnaey）。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
 
- · 联系我的邮箱: ciencatsanye@gmail.com
+---
 
- · 这是我的技术博客：https://www.uonlra.blog/
+## ✨ 我的一些产出
+- 🔭 This is the testimony of the [missing-semester](https://github.com/uonlraSnaey/missing-semester)
+- 🎓 CS50 学习路线（记录与笔记）：https://github.com/uonlraSnaey/cs50
+- 🐍 Python 入门学习过程（The Hard Way 风格笔记）：https://github.com/uonlraSnaey/hard_way
+- 🧩 有趣的 Python 小课（CS50P）：https://github.com/uonlraSnaey/CS50P
 
-<!--
-**uonlraSnaey/uonlraSnaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Blender 小作品
+1. 🍩 [donut](https://github.com/uonlraSnaey/blender_donut)  
+2. 🍐 [pearl](https://github.com/Uonlra/blender/tree/main/pearl)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 常用工具与资源
+### 1. Vim
+- 📘 vim 中文手册：https://yianwillis.github.io/vimcdoc/doc/quickref.html
 
-🌱 I’m currently learning ...
+### 2. Git / GitHub
+- 📗 《Pro Git》学习仓库（包含资料与中文翻译）：https://github.com/uonlraSnaey/Gitpro_notes  
+- 📝 GitHub 官方中文文档：https://docs.github.com/zh/get-started
+
+### 3. Obsidian 插件（推荐）
+- Dataview（强大的笔记查询）: obsidian://show-plugin?id=dataview  
+- Calendar（日历）  
+- Style settings（主题/样式配置）
+
+### 4. Notion 笔记
+- Notion（托管式笔记，个人资料、项目管理与知识库）：https://www.notion.com/
+
+---
+
+## 📫 联系方式 & 社交
+- ✉️ 邮箱: ciencatsanye@gmail.com  
+- 📝 技术博客: https://www.uonlra.blog/  
+
+---
+
+## 🚀 现在在做 / 学习中
+- 🌱 正在学习：CS50 系列、Python 深入与 Blender 基础实践。  
+- 如果你对我的项目感兴趣，欢迎开 issue、提 PR 或者交流心得。
+
+---
