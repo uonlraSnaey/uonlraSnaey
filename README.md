@@ -1,19 +1,25 @@
 # 😊 不以物喜，不以己悲，独善其身
 ---
 ## 📊 我的 GitHub 统计
+<!-- 使用自托管的 Readme Stats -->
+![GitHub stats](https://github-readme-stats-dun-nu.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight)
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Uonlra GitHub stats" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Uonlra&theme=onedark&column=4" alt="Trophies" />
+  <!-- 贡献图（ghchart） -->
+  <img src="https://ghchart.rshah.org/Uonlra" alt="GitHub chart" />
+</p>
+<p align="left">
+  <!-- Followers / Repos / Stars（shields.io） -->
+  <img src="https://img.shields.io/github/followers/Uonlra?label=Followers&style=flat&logo=github" alt="Followers" />
+ <!--  <img src="https://img.shields.io/github/repos/Uonlra?label=Public%20Repos&style=flat&logo=github" alt="Repos" /> -->
+  <img src="https://img.shields.io/github/stars/Uonlra?label=Stars&style=flat&logo=github" alt="Stars" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uonlra&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight" alt="GitHub Streak" />
-</p>
+---
 
 ## 👋 简介
-你好，我是 Uonlra（也用名 uonlraSnaey）。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
+你好，我是 Uonlra。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
 
 ---
 
