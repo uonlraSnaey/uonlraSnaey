@@ -1,10 +1,19 @@
 # 😊 不以物喜，不以己悲，独善其身
 ---
 ## 📊 我的 GitHub 统计
-<!-- 使用自托管的 Readme Stats -->
-![GitHub stats](https://github-readme-stats-dun-nu.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
+<!-- 总体统计 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight)
+
+<!-- 奖杯 -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=Uonlra&theme=onedark)
+
+<!-- 语言 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uonlra&layout=compact&theme=tokyonight)
+
+<!-- Streak  -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight)
+
 <p align="left">
   <!-- 贡献图（ghchart） -->
   <img src="https://ghchart.rshah.org/Uonlra" alt="GitHub chart" />
