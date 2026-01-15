@@ -1,18 +1,16 @@
 # 😊 不以物喜，不以己悲，独善其身
 ---
 ## 📊 我的 GitHub 统计
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Uonlra GitHub stats" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Uonlra&theme=onedark&column=4" alt="Trophies" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uonlra&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 👋 简介
 你好，我是 Uonlra（也用名 uonlraSnaey）。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
