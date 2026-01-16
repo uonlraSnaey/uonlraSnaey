@@ -36,8 +36,10 @@
 
 ---
 
-## 👋 简介
-你好，我是 Uonlra。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
+## 👋👋👋 Hellooooooooo!!
+我是 Uonlra。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
+
+如果希望了解更多😚，请查看[我的个人网站](https://www.uon1ra.top/)
 
 ---
 
