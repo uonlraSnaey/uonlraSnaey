@@ -1,5 +1,15 @@
-# 😊 不以物喜，不以己悲，独善其身
+## 👋👋👋 Hellooooooooo!!
+我是 Uonlra。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。</p>
+把学习过程写成笔记与仓库，方便回顾与分享。
 
+🎵 音乐相关
+- 蘑菇帝国
+- 🎸only
+- 钉鞋摇滚
+
+如果希望了解更多😚，请查看[我的个人网站](https://www.uon1ra.top/)
+
+---
 ## 📊 我的 GitHub 统计
 
 <!-- 奖杯 
@@ -28,18 +38,6 @@
   <!-- Stars（紫色） -->
   <img src="https://img.shields.io/github/stars/Uonlra?label=Stars&style=flat&logo=github&color=%238a63d2" alt="Stars" />
 </p>
-
----
-
-## 👋👋👋 Hellooooooooo!!
-我是 Uonlra。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。把学习过程写成笔记与仓库，方便回顾与分享。
-
-🎵 音乐相关
-- 蘑菇帝国
-- 🎸only
-- 钉鞋摇滚
-
-如果希望了解更多😚，请查看[我的个人网站](https://www.uon1ra.top/)
 
 ---
 
