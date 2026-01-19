@@ -13,7 +13,7 @@
 -->
 <!-- Streak  -->
 
-![Uonlra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=radical)
+![Uonlra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight)
 
