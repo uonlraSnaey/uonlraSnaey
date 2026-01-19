@@ -15,6 +15,13 @@
 
 ![Uonlra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight)
+
+<p align="left">
+  <!-- 贡献图（ghchart） -->
+  <img src="https://ghchart.rshah.org/Uonlra" alt="GitHub chart" />
+</p>
+
 <p align="left">
   <!-- Followers（绿色） -->
   <img src="https://img.shields.io/github/followers/Uonlra?label=Followers&style=flat&logo=github&color=%232ea44f" alt="Followers" />
@@ -25,14 +32,6 @@
   <!-- Stars（紫色） -->
   <img src="https://img.shields.io/github/stars/Uonlra?label=Stars&style=flat&logo=github&color=%238a63d2" alt="Stars" />
 </p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight)
-
-<p align="left">
-  <!-- 贡献图（ghchart） -->
-  <img src="https://ghchart.rshah.org/Uonlra" alt="GitHub chart" />
-</p>
-
 
 ---
 
