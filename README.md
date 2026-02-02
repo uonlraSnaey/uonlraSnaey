@@ -70,13 +70,14 @@
 - Notion（托管式笔记，个人资料、项目管理与知识库）：https://www.notion.com/
 
 ### 5. bitwarden
-- 十分实用的密码管理工具：https://bitwarden.com/
+- 非常实用的密码管理工具：https://bitwarden.com/
 
 ---
 
 ## 📫 联系方式 & 社交
-- ✉️ 邮箱: ciencatsanye@gmail.com  
-- 📝 技术博客: https://www.uonlra.blog/  
+-  📧 邮箱: ciencatsanye@gmail.com  
+-  🔧 技术博客: https://www.uonlra.blog/
+-  🎲 BILIBILI:https://space.bilibili.com/363257416
 
 ---
 
