@@ -12,7 +12,9 @@
 ---
 ## 📊 我的 GitHub 统计
 
- ![Isometric commit calendar](./metrics-isocalendar.svg)
+![Isometric commit calendar](./metrics-isocalendar.svg)
+
+![Languages activity](./metrics-languages.svg)
 <!-- 奖杯 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Uonlra&theme=onedark)
 -->
