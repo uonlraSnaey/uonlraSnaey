@@ -13,8 +13,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # calendar
           user: Uonlra
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-isocalendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # Languages activity
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 2%
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 14
+          plugin_languages_sections: most-used, recently-used
