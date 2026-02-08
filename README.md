@@ -12,6 +12,7 @@
 ---
 ## 📊 我的 GitHub 统计
 
+ ![Isometric commit calendar](./metrics-isocalendar.svg)
 <!-- 奖杯 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Uonlra&theme=onedark)
 -->
@@ -28,7 +29,6 @@
   <img src="https://ghchart.rshah.org/Uonlra" alt="GitHub chart" />
 </p>
  -->
- ![Isometric commit calendar](./metrics-isocalendar.svg)
  
 <p align="left">
   <!-- Followers（绿色） -->
