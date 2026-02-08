@@ -11,19 +11,29 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1) Isometric commit calendar（全年）
+      - name: Metrics - Isometric commit calendar
+        uses: lowlighter/metrics@latest
         with:
-          # calendar
           user: Uonlra
           token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
           filename: metrics-isocalendar.svg
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Languages activity
+
+      # 2) Languages activity（拆分成单独文件）
+      - name: Metrics - Languages activity
+        uses: lowlighter/metrics@latest
+        with:
+          user: Uonlra
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          filename: metrics-languages.svg
+
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
@@ -31,4 +41,5 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_recent_load: 300
           plugin_languages_recent_days: 14
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_ignored: >-
+            html, css
