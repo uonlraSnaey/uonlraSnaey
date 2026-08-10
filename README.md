@@ -39,7 +39,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
 - I enjoy turning product requirements into clear interaction flows, data models, and reusable components.
 - Contact: `uonlra@hotmail.com` | Website: [uon1ra.top](https://www.uon1ra.top/)
 
-## 🔖 Core Strengths
+## 🚩 Core Strengths
 
 <table>
   <tr>
