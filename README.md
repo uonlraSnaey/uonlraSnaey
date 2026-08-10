@@ -39,19 +39,19 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
 - I enjoy turning product requirements into clear interaction flows, data models, and reusable components.
 - Contact: `uonlra@hotmail.com` | Website: [uon1ra.top](https://www.uon1ra.top/)
 
-## 🚩 Core Strengths
+## 🎩 Core Strengths
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🔧 Component Engineering</h3>
+      <h3> Component Engineering</h3>
       <p>
         Build business interfaces with React Hooks and composable components,
         turning lists, forms, filters, and detail panels into reusable modules.
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>⚒ Type Safety & State</h3>
+      <h3>Type Safety & State</h3>
       <p>
         Use TypeScript strict, Zustand, Context API, React Hook Form, and Zod
         to establish clear data contracts and interaction flows.
@@ -60,14 +60,14 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🎟 APIs & Real-Time Data</h3>
+      <h3>APIs & Real-Time Data</h3>
       <p>
         Experienced with Appwrite, Convex, Clerk, and REST API integration,
         including authentication, pagination, search, uploads, and live data sync.
       </p>
     </td>
     <td width="50%" align="center">
-      <h3> 🖇 UX & Delivery</h3>
+      <h3> UX & Delivery</h3>
       <p>
         Prioritize responsive layouts and loading, empty, and error states;
         validate delivery with Vitest, ESLint, type checks, and production builds.
