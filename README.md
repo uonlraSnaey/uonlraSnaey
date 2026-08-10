@@ -78,7 +78,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
 
 ## 🔗 🛠 Tech Stack
 
-#### ⚛️ Languages & Core Frontend
+### Languages & Core Frontend
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -92,7 +92,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
-#### 🧩 Application Architecture
+### Application Architecture
 
 <p>
   <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack" />
@@ -106,7 +106,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
   <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="Apache ECharts" />
 </p>
 
-#### ☁️ Tooling, Design & Delivery
+### Tooling, Design & Delivery
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -149,7 +149,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
 <table>
   <tr>
     <td width="100%">
-      <h3>💬 <a href="https://github.com/Uonlra/RedditLike">RedditLike — Real-Time Community Platform</a></h3>
+      <h3>🗂️ <a href="https://github.com/Uonlra/RedditLike">RedditLike — Real-Time Community Platform</a></h3>
       <p>
         A real-time community platform for creating communities, publishing posts, commenting, voting, searching, and discovering trending content across synchronized clients.
       </p>
@@ -175,7 +175,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
 <table>
   <tr>
     <td width="100%">
-      <h3>🎬 <a href="https://github.com/Uonlra/U-s-cinema">U-s-cinema — Movie Discovery & Watchlist</a></h3>
+      <h3>🗂️ <a href="https://github.com/Uonlra/U-s-cinema">U-s-cinema — Movie Discovery & Watchlist</a></h3>
       <p>
         A responsive movie discovery and watchlist application built around TMDB data, with recommendations, searchable catalogs, movie details, personal libraries, and local persistence.
       </p>
