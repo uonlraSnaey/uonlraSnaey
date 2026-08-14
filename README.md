@@ -76,7 +76,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
   </tr>
 </table>
 
-## 🔗 🛠 Tech Stack
+## 🔗  Tech Stack
 
 ### Languages & Core Frontend
 
