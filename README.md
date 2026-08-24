@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F766E&height=190&section=header&text=Uonlra&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descSize=18&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F766E&height=190&section=header&text=Uonlra&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Creative%20frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descSize=18&descAlignY=58&animation=fadeIn"
     alt="Uonlra - Frontend Developer"
   />
 </p>
