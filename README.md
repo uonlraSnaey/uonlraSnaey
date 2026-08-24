@@ -1,15 +1,15 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F766E&height=190&section=header&text=Uonlra&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Creative%20frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descSize=18&descAlignY=58&animation=fadeIn"
-    alt="Uonlra - Frontend Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F766E&height=190&section=header&text=Uonlra&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Next.js%20Full-Stack%20Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descSize=18&descAlignY=58&animation=fadeIn"
+    alt="Uonlra - Next.js Full-Stack Frontend Developer"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Building+reliable+and+polished+web+experiences;React+%2B+TypeScript+%2B+Next.js"
-    alt="Building reliable and polished web experiences"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Building+polished%2C+reliable+web+products;React+%2B+TypeScript+%2B+Next.js+%2B+BFF"
+    alt="Building polished, reliable web products"
   />
 </p>
 
@@ -33,10 +33,11 @@
 
 ## 👋 About Me
 
-Computer Science graduate and frontend developer based in Chengdu, China. I build complete web applications with React, TypeScript, and Next.js, with a focus on type safety, resilient states, responsive UX, and maintainable component design.
+Computer Science graduate based in Chengdu, China. I am a frontend-focused developer who builds complete web products with React, TypeScript, and Next.js, from responsive interfaces and reusable components to authentication, API routes, data access, and deployment.
 
+- I care about clear visual hierarchy, purposeful interaction, and resilient states across desktop and mobile.
+- I enjoy turning product requirements into interaction flows, typed data models, and maintainable components.
 - Exploring: Three.js, WebGL, and expressive 3D interfaces for the web.
-- I enjoy turning product requirements into clear interaction flows, data models, and reusable components.
 - Contact: `uonlra@hotmail.com` | Website: [uon1ra.top](https://www.uon1ra.top/)
 
 ## 🎩 Core Strengths
@@ -46,15 +47,15 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
     <td width="50%" align="center">
       <h3> Component Engineering</h3>
       <p>
-        Build business interfaces with React Hooks and composable components,
-        turning lists, forms, filters, and detail panels into reusable modules.
+        Build responsive product interfaces with React Hooks and composable components,
+        turning lists, forms, filters, dashboards, and detail panels into reusable modules.
       </p>
     </td>
     <td width="50%" align="center">
       <h3>Type Safety & State</h3>
       <p>
         Use TypeScript strict, Zustand, Context API, React Hook Form, and Zod
-        to establish clear data contracts and interaction flows.
+        to establish clear data contracts, predictable state, and robust interaction flows.
       </p>
     </td>
   </tr>
@@ -62,15 +63,15 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
     <td width="50%" align="center">
       <h3>APIs & Real-Time Data</h3>
       <p>
-        Experienced with Appwrite, Convex, Clerk, and REST API integration,
-        including authentication, pagination, search, uploads, and live data sync.
+        Build frontend-to-backend boundaries with Next.js API Routes, Appwrite, Convex,
+        Clerk, and REST APIs, including authentication, permissions, search, uploads, and live data sync.
       </p>
     </td>
     <td width="50%" align="center">
       <h3> UX & Delivery</h3>
       <p>
-        Prioritize responsive layouts and loading, empty, and error states;
-        validate delivery with Vitest, ESLint, type checks, and production builds.
+        Prioritize responsive layouts, clear feedback, and loading, empty, and error states;
+        validate delivery with tests, linting, type checks, and production builds.
       </p>
     </td>
   </tr>
@@ -124,10 +125,10 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
     <td width="100%">
       <h3>🗂️ <a href="https://github.com/Uonlra/TaskFlow">TaskFlow — Personal Task Management Workspace</a></h3>
       <p>
-        A full-featured workspace for planning, filtering, and reviewing tasks. It combines session-aware authentication, protected routes, real data, dashboard analytics, calendar views, and responsive task management.
+        A full-featured task workspace built with Next.js App Router. It brings together session-aware authentication, protected server boundaries, task CRUD, shareable filters, dashboard analytics, calendar planning, and a responsive experience.
       </p>
       <p>
-        <strong>Highlights:</strong> Appwrite authentication · Shareable URL filters · Dashboard and calendar views · Dual data mode · Vitest edge-case coverage
+        <strong>Highlights:</strong> httpOnly cookie sessions and middleware protection · Appwrite row-level permissions · Shareable URL filters · Dashboard and calendar views · Dual data mode · Vitest edge-case coverage
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -151,10 +152,10 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
     <td width="100%">
       <h3>🗂️ <a href="https://github.com/Uonlra/RedditLike">RedditLike — Real-Time Community Platform</a></h3>
       <p>
-        A real-time community platform for creating communities, publishing posts, commenting, voting, searching, and discovering trending content across synchronized clients.
+        A real-time community product for creating communities, publishing posts, commenting, voting, searching, and discovering trending content across synchronized clients.
       </p>
       <p>
-        <strong>Highlights:</strong> Convex reactive queries · Full-text search · Clerk authentication · Ownership checks · Two-stage image uploads
+        <strong>Highlights:</strong> Convex reactive queries · Indexed full-text search · Clerk session integration · Server-side ownership checks · Paginated feeds · Two-stage image uploads
       </p>
       <p>
         <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
@@ -177,10 +178,10 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
     <td width="100%">
       <h3>🗂️ <a href="https://github.com/Uonlra/U-s-cinema">U-s-cinema — Movie Discovery & Watchlist</a></h3>
       <p>
-        A responsive movie discovery and watchlist application built around TMDB data, with recommendations, searchable catalogs, movie details, personal libraries, and local persistence.
+        A responsive movie discovery and watchlist application built around TMDB data, with recommendations, searchable catalogs, movie details, personal libraries, and persistent viewing states.
       </p>
       <p>
-        <strong>Highlights:</strong> Generic API layer · Parallel data loading · Resilient UI states · localStorage migration · TypeScript strict migration
+        <strong>Highlights:</strong> Generic typed API layer · Parallel data loading · Resilient loading, empty, and error states · localStorage migration · JavaScript-to-TypeScript strict migration
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -220,5 +221,5 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
 ---
 
 <p align="center">
-  <i>Open to frontend opportunities and thoughtful technical conversations.</i>
+  <i>Building thoughtful interfaces and dependable web products.</i>
 </p>
